@@ -142,7 +142,7 @@ export default function Hero() {
               GitHub
             </motion.a>
             <motion.a
-              href="https://maize-parent-afa.notion.site"
+              href="https://app.notion.com/p/37b7a32d071c80acb99fd64329e16f8c?v=37b7a32d071c80f0a9d8000ce04feadf&source=copy_link"
               target="_blank" rel="noreferrer"
               style={{
                 padding: '25px 50px', background: 'transparent', color: '#888',
