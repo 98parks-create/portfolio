@@ -733,6 +733,6 @@ export const skills = {
   frontend: ["React", "HTML5", "CSS3", "JavaScript", "i18next", "PWA"],
   backend: ["Python", "Django", "Node.js", "Express", "Firebase", "Supabase"],
   ai: ["Claude API", "Gemini API", "Prompt Engineering", "RAG"],
-  tools: ["GitHub", "Figma", "Notion", "Kakao Maps API", "공공데이터 API", "jsPDF"],
+  tools: ["GitHub", "Figma", "Notion", "Kakao Maps API", "공공데이터 API", "jsPDF", "OA"],
   cert: ["리눅스마스터 2급", "프로그래밍기능사", "컴퓨터활용능력 2급", "정보처리기사 (필기 합격)", "정보처리산업기사 (필기 합격)", "ITQ 정보기술자격 파워포인트 B급", "전산응용건축제도기능사 (필기 합격)"]
 };
