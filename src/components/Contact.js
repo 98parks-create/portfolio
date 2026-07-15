@@ -59,7 +59,7 @@ export default function Contact() {
           style={{ display: 'flex', gap: 24, flexWrap: 'wrap' }}
         >
           {[
-            { label: 'GitHub', url: 'https://github.com/98parks-create', icon: '↗' },
+            { label: 'GitHub', url: 'https://github.com/98parks-create/98parks-create', icon: '↗' },
             { label: 'Notion', url: 'https://app.notion.com/p/37b7a32d071c80acb99fd64329e16f8c?v=37b7a32d071c80f0a9d8000ce04feadf&source=copy_link', icon: '↗' },
           ].map(({ label, url, icon }) => (
             <motion.a

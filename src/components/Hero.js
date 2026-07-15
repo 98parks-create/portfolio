@@ -125,7 +125,7 @@ export default function Hero() {
               프로젝트 보기
             </motion.button>
             <motion.a
-              href="https://github.com/98parks-create"
+              href="https://github.com/98parks-create/98parks-create"
               target="_blank" rel="noreferrer"
               style={{
                 padding: '25px 50px', background: 'transparent', color: '#C8B89A',

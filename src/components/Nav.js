@@ -68,7 +68,7 @@ export default function Nav() {
             </motion.button>
           ))}
           <motion.a
-            href="https://github.com/98parks-create"
+            href="https://github.com/98parks-create/98parks-create"
             target="_blank"
             rel="noreferrer"
             style={{

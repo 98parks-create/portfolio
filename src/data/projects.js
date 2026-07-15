@@ -9,7 +9,7 @@ export const projects = [
     period: "",
     color: "#C8B89A",
     url: "https://tadsmart.co.kr",
-    github: "",
+    github: "https://github.com/98parks-create/tad",
     highlights: ["Claude API 견적 자동 생성", "3개국어 다국어 지원", "소셜 로그인 (카카오·네이버)", "PWA 배포"],
     tools: ["GitHub", "Figma", "Firebase Console"],
     codeBlocks: [
@@ -139,7 +139,7 @@ i18n.use(initReactI18next).init({
     period: "",
     color: "#8B7355",
     url: "https://98parks-create.github.io/yeomim-privacy",
-    github: "https://github.com/98parks-create",
+    github: "https://github.com/98parks-create/98parks-create",
     highlights: ["팀장 / 4인 팀 프로젝트", "공공 API 병렬처리 65% 속도 개선", "AI 챗봇 (Claude API)", "충청북도 경진대회 출품"],
     tools: ["GitHub", "Figma", "Notion", "Discord"],
     codeBlocks: [
@@ -278,7 +278,7 @@ def fetch_public_data(url, params):
     period: "",
     color: "#6B8F71",
     url: "https://whateat-fawn.vercel.app/",
-    github: "https://github.com/98parks-create",
+    github: "https://github.com/98parks-create/whateat",
     highlights: ["위치 기반 반경 검색", "카테고리 필터링", "즐겨찾기 (Supabase)", "커뮤니티 바이럴 마케팅"],
     tools: ["GitHub", "Vercel", "Supabase Dashboard"],
     codeBlocks: [
@@ -395,7 +395,7 @@ const getFavorites = async () => {
     period: "",
     color: "#4A7FA5",
     url: "https://kickoff-coral.vercel.app/",
-    github: "https://github.com/98parks-create",
+    github: "https://github.com/98parks-create/kickoff",
     highlights: ["20년 축구 경험 기반 기획", "Context API 상태 관리", "팀 매칭 알고리즘", "경기 일정 캘린더"],
     tools: ["GitHub", "Figma", "Vercel", "Notion"],
     codeBlocks: [
@@ -518,7 +518,7 @@ export const TeamProvider = ({ children }) => {
     period: "",
     color: "#A5527A",
     url: "https://taepyeongyangad.netlify.app/",
-    github: "https://github.com/98parks-create",
+    github: "https://github.com/98parks-create/98parks-create",
     highlights: ["반응형 웹 디자인", "제품 카탈로그", "견적 문의 폼", "Netlify 배포"],
     tools: ["GitHub", "Netlify", "Figma"],
     codeBlocks: [
@@ -613,7 +613,7 @@ document.addEventListener('DOMContentLoaded', observeElements);`
     period: "",
     color: "#7A6FA5",
     url: "https://dearest-official.vercel.app/",
-    github: "https://github.com/98parks-create",
+    github: "https://github.com/98parks-create/98parks-create",
     highlights: ["Firebase 실시간 리스너", "소셜 인증", "반응형 UI", "감성 UX 디자인"],
     tools: ["GitHub", "Vercel", "Firebase Console", "Figma"],
     codeBlocks: [
